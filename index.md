@@ -9,9 +9,9 @@ tagline: work in progress
 
 
     
-## Priorities
+## Tuesday
 
-work on workflow, structured collaboration, tomatina timer?
+This was an extremely long day in every way, while I'm not sure exactly what I learnt I feel strengthened somehow, confused, bloodied but unbowed.
 
     
 <ul class="posts">
@@ -22,7 +22,7 @@ work on workflow, structured collaboration, tomatina timer?
 
 ## To-Do
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+work on workflow, structured collaboration, tomatina timer?
+
 
 
