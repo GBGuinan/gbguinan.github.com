@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: George's blog
@@ -11,7 +12,7 @@ tagline: work in progress
     
 ## Tuesday
 
-This was an extremely long day in every way, while I'm not sure exactly what I learnt I feel strengthened somehow, confused, bloodied but unbowed.
+git@github.com:GBGuinan/gbguinan.github.com.git
 
     
 <ul class="posts">
@@ -22,7 +23,7 @@ This was an extremely long day in every way, while I'm not sure exactly what I l
 
 ## To-Do
 
-work on workflow, structured collaboration, tomatina timer?
+work on workflow, , tomatina timer?
 
 
 
